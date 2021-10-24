@@ -26,7 +26,7 @@
     <label for="css">Non</label><br>
 
     <p id="denied" style="display:none;">Merci de votre réponse ! Si vous voulez modifier votre réponse, il vous suffit
-        de rafrachir la page
+        de rafrachir la page.
     </p>
 
     <h2 id="accepted" style="display:none;">Veuillez rentrer les informations suivantes :</h2>
